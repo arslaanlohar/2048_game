@@ -1,4 +1,4 @@
-"""
+
 2048 Game — Python + Tkinter
 -----------------------------
 Controls: Arrow keys (Up/Down/Left/Right) to move tiles.
